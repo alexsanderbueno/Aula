@@ -10,3 +10,5 @@ Linguagem de Programação
 
 # Programador
 - Alexsander Bueno
+
+Repetição até a exaustão, com correção leva a perfeição
